@@ -1,0 +1,12 @@
+Problems:
+-Class Imbalance
+-Finding common combinations
+
+
+Simple logistic regression:
+Using non-upsampled data, logistic regression with just binary color variables got 45% of test data correct. 
+
+Upsampled logistic regression:
+Accuracy increased to 55%. Probably Arabic was included in the test set. 
+
+Color comp
